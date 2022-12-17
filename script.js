@@ -41,5 +41,5 @@ function run(){
 }
 
 
-const woo = "CICADA{Y0u_will_N3eD_Me_1@t3R}";
+const woo = "CICADA{Y0u_wi11_N3eD_Me_l@t3R}";
 run();
